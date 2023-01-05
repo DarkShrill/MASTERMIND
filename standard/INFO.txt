@@ -1,0 +1,32 @@
++------------------------------------------------------------------------------+
++                                                                              |
++                                 INFO FILE                                    |
++                                                                              |
++-------------------------------+----------------------------------------------+
++                               |                                              |
++   PATH OF FILE                |                  DESCRIPTION                 |
++-------------------------------+----------------------------------------------+
++-------------------------------+----------------------------------------------+
++ /playerDataCreation/data.txt  | IL FORMATO DEL FILE DEVE ESSERE COSI:        |
++                               |        nome_da_mostrare classe     (1)       |
++-------------------------------+----------------------------------------------+
++/rulesData                     | IL FORMATO DEL FILE DEVE ESSERE COSI:        |
++                               |          LABEL=nome_da_mostrare              |
++                               |          NUMBER_OF_COLORS=numero_di_colori   |
++                               |          AVAIABLE_COLORS=lista_colori     (2)|
++                               |          NUMBER_OF_TRY=numero_di_tentativi   |
++-------------------------------+----------------------------------------------+
++ /strategyDataCreation/        | IL FORMATO DEL FILE DEVE ESSERE COSI:        |
++             strategyData.txt  |       nome_da_mostrare classe     (3)        |
++-------------------------------+----------------------------------------------+
+
+
+
+(1) --> Possiamo aggiungere solamente classi che implementano l'interfaccia
+          PlayerFactory.
+(2) --> Bisogna inserire la lista dei colori tutti in maiuscolo e in questa
+          maniera: colore1,colore2,color3,colore4 ...
+              ESEMPIO: R,B,G,Y,V,O,C,W
+          N.B.: Si possono inserire quante LABEL vogliamo!
+(3) --> Possiamo aggiungere solamente classi che implementano l'interfaccia
+          StrategyFactory.

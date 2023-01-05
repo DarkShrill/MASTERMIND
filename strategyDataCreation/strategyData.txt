@@ -1,0 +1,2 @@
+RANDOM it.unicam.cs.pa.strategy.RandomStrategyFactory
+KNUTH it.unicam.cs.pa.strategy.KnuthStrategyFactory

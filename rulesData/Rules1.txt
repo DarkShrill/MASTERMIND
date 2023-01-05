@@ -1,0 +1,15 @@
+@SettingData
+LABEL=EASY
+NUMBER_OF_COLORS=6
+AVAIABLE_COLORS=R,B,G,Y,V,O
+NUMBER_OF_TRY=12
+---------------------------------------------
+LABEL=NORMAL
+NUMBER_OF_COLORS=6
+AVAIABLE_COLORS=R,B,G,Y,V,O
+NUMBER_OF_TRY=8
+---------------------------------------------
+LABEL=HARD
+NUMBER_OF_COLORS=6
+AVAIABLE_COLORS=R,B,G,Y,V,O
+NUMBER_OF_TRY=5

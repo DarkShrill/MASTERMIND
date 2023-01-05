@@ -1,0 +1,2 @@
+HUMAN_PLAYER it.unicam.cs.pa.player.HumanPlayerFactory
+PC_PLAYER it.unicam.cs.pa.player.PcPlayerFactory
