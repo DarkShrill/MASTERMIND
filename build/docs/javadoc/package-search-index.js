@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"it.unicam.cs.pa.controller"},{"l":"it.unicam.cs.pa.MASTERMIND"},{"l":"it.unicam.cs.pa.mode"},{"l":"it.unicam.cs.pa.model"},{"l":"it.unicam.cs.pa.player"},{"l":"it.unicam.cs.pa.rules"},{"l":"it.unicam.cs.pa.strategy"},{"l":"it.unicam.cs.pa.view"}]
